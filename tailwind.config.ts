@@ -81,12 +81,6 @@ module.exports = {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
-      // backgroundImage: {
-      //   "main-pattern-mobile":
-      //     'url("../../public/images/background-pattern-mobile.svg")',
-      //   "main-pattern-desktop":
-      //     'url("../../public/images/background-pattern-desktop.svg")',
-      // },
     },
   },
   plugins: [require("tailwindcss-animate")],
